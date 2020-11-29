@@ -1,8 +1,9 @@
-### Hi there 👋
-
+<h1 align="center">Hello there 👋, I'm Totati</h1>
+<p align="center">I'm an <i>Angular</i> developer.</p>
+<p></p>
+<p align="center">Please feel free to file issues and remarks on my repos.</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Totati&show_icons=true" alt="joepkockelkorn" /></p>
 <!--
-**Totati/Totati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
