@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Totati</h1>
 <p align="center">I'm an <i>Angular</i> developer.</p>
-<p></p>
-<p align="center">Please feel free to file issues and remarks on my repos.</p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Totati&show_icons=true" alt="Github stats" /></p>
+<p align="center">Feel free to file issues and remarks on my repos.</p>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Totati" alt="Profile view"/>
